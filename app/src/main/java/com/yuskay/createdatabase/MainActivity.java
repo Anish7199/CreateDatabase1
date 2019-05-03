@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         btnAddWord = findViewById(R.id.btnAddWord);
 
+
         final MyHelper myHelper = new MyHelper(this);
         final SQLiteDatabase sqLiteDatabase = myHelper.getWritableDatabase();
 

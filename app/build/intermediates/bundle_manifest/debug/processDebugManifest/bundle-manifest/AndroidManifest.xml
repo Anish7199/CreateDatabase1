@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.yuskay.createdatabase.SearchWordActivity" />
+        <activity android:name="com.yuskay.createdatabase.DisplayWordActivity" />
         <activity android:name="com.yuskay.createdatabase.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -1,4 +1,4 @@
-#Thu May 02 10:54:41 NPT 2019
-base.0=/home/softwarica/Desktop/KK/view/CreateDatabase/app/build/intermediates/transforms/dexMerger/debug/4
+#Fri May 03 08:34:01 NPT 2019
+base.0=/home/softwarica/CreateDatabase1/app/build/intermediates/transforms/dexMerger/debug/4
 path.0=classes.dex
 renamed.0=classes.dex

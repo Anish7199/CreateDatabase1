@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/softwarica/Desktop/KK/view/CreateDatabase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/home/softwarica/CreateDatabase1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/home/softwarica/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e029b7230439ef645ece7378b6826b64/res/values-ldltr-v21/values-ldltr-v21.xml",
